@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"id":"1","no":"1","nama_barang":"logo","harga":"10000","qty":"5","gambar":"logo.png"},{"id":"2","no":"2","nama_barang":"sepatu","harga":"20000","qty":"5","gambar":"sepatu.png"}]
